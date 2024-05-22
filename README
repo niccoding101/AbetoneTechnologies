@@ -1,2 +1,5 @@
 CV2.py: 
 Below is a basic Python code using OpenCV library to detect faces and draw a rectangle around them. It utilizes the built-in face detection algorithm of OpenCV. Note that this code will not specifically detect when someone is on their phone, but it will detect faces and draw a rectangle around them as they move around the screen.
+
+
+Currently in development. 
