@@ -1,4 +1,5 @@
 #CV2.py 
+# I need to add data for the program regarding facial recognition
 
 import cv2
 
