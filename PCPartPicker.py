@@ -7,47 +7,47 @@ pc_parts = {
     "CPUs": [
         {"name": "AMD Ryzen 5 5600X", "price": 200, "rating": 4.8},
         {"name": "Intel i5 11600K", "price": 230, "rating": 4.7},
-        # More CPUs...
+        # more
     ],
     "GPUs": [
         {"name": "NVIDIA RTX 3060", "price": 400, "rating": 4.5},
         {"name": "AMD RX 6700 XT", "price": 480, "rating": 4.6},
-        # More GPUs...
+        # more
     ],
     "Motherboards": [
         {"name": "ASUS ROG Strix B550-F", "price": 180, "rating": 4.7},
         {"name": "MSI MPG Z490 Gaming Edge", "price": 200, "rating": 4.6},
-        # More Motherboards...
+        # more
     ],
     "RAM": [
         {"name": "Corsair Vengeance LPX 16GB", "price": 80, "rating": 4.7},
         {"name": "G.Skill Ripjaws V 16GB", "price": 85, "rating": 4.6},
-        # More RAM...
+        # more
     ],
     "Storage": [
         {"name": "Samsung 970 Evo 1TB", "price": 120, "rating": 4.8},
         {"name": "Western Digital Blue 1TB", "price": 50, "rating": 4.5},
-        # More Storage...
+        # more
     ],
     "Cases": [
         {"name": "NZXT H510", "price": 70, "rating": 4.7},
         {"name": "Corsair 275R", "price": 80, "rating": 4.6},
-        # More Cases...
+        # more
     ],
     "Power Supplies": [
         {"name": "Corsair RM750x", "price": 100, "rating": 4.8},
         {"name": "EVGA SuperNOVA 650 G5", "price": 90, "rating": 4.7},
-        # More Power Supplies...
+        # more
     ],
     "Peripherals": [
         {"name": "Logitech G502 Hero", "price": 50, "rating": 4.8},
         {"name": "Corsair K95 RGB Platinum", "price": 130, "rating": 4.7},
-        # More Peripherals...
+        # more
     ],
     "Games/Productivity": [
         {"name": "Cyberpunk 2077", "price": 60, "rating": 4.5},
         {"name": "Adobe Photoshop", "price": 240, "rating": 4.6},
-        # More Games/Productivity software...
+        # more
     ],
 }
 
