@@ -6,7 +6,7 @@ import json
 pc_parts = {
     "CPUs": [
         {"name": "AMD Ryzen 5 5600X", "price": 200, "rating": 4.8},
-        {"name": "Intel i5 11600K", "price": 230, "rating": 4.7},
+        {"name": "AMD Ryzen 7 7800x3D", "price": 350, "rating": 4.9},
         # more
     ],
     "GPUs": [
